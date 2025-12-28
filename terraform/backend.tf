@@ -5,7 +5,7 @@ terraform {
 
   # Preparing for Teamwork
   backend "s3" {
-    bucket         = "humangov-terraform-state"
+    bucket         = "humangov-terraform-state-ramonriserio"
     key            = "terraform.tfstate"
     region         = "us-east-1"
     encrypt        = true
