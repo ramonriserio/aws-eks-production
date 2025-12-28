@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "humangov_terraform_state" {
-  bucket = "humangov-terraform-state"
+  bucket = "humangov-terraform-state-ramonriserio"
   acl    = "private"
 
   lifecycle {
