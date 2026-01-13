@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+.terraform/
+
+*.tfstate*
+*.
+
+*.tfvars
+*.tfplan
+*.tfr
+=======
+*.zip
+>>>>>>> 7128ed2654ed8b3cba71daa7c66f875b226d3e39
